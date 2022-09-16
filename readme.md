@@ -1,8 +1,6 @@
 # Prueba Bcas
 Imaginemos que estamos desarrollando una red social de personas que adoran a los animales.
 Esta red social tiene algunas peculiaridades:
-- Cuando un usuario se da de alta, en el formulario de registro, introduce los
-siguientes datos: username, email y password.
 - Los usuarios se relacionan con otros por una relación de “amistad”, dando lugar al
 listado de amigos.
 - Los usuarios tienen un listado de mascotas

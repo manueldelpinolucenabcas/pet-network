@@ -24,7 +24,7 @@ Read, Update y Delete) para la entidad usuario (Los amigos y mascotas se pueden 
 ## Requisitos técnicos
 - La programación asíncrona debe realizarse mediante promesas o async/await.
 - Entrada y salida del API en formato JSON.
-- Documentación de la API
+- Documentación de la API.
 - Control de errores.
 - Buen estilo y organización de código.
 - Despliegue en [Railway](https://railway.app/dashboard) del back y base de datos.
